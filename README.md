@@ -19,5 +19,5 @@
 🕷️ Fun fact: I have a spiderman costume
 
 <p align="center">
-  <img align="center" src="https://thumbs.gfycat.com/DemandingBonyAldabratortoise-mobile.gif" alt="Spiderman sending hi!" width=300px />
+  <img align="center" src="https://media.giphy.com/media/PlsZcNzfW6vQYBL1FS/giphy.gif" alt="Miles Morales sending hello" width=300px />
 </p>
