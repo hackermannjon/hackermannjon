@@ -8,7 +8,7 @@
 
 <a href="https://github.com/hackermannjon/github-readme-stats">
   <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackermannjon&hide=jupyter%20notebook,html&layout=compact&theme=omni" />
-</a><br><br><br><br><br><br><br><br><br><br>
+</a><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 💻 Passionate on software development and programming
 
