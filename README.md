@@ -1,6 +1,6 @@
 # Hi, I'm Joao :wave:
 
-[![Gmail Badge](https://img.shields.io/badge/-hyperlobe2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyperlobe2@gmail.com)](mailto:joaosantos3563@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-joaosantos3563@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyperlobe2@gmail.com)](mailto:joaosantos3563@gmail.com)
 
 <a href="https://github.com/hackermannjon/github-readme-statst">
 <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=hackermannjon&show_icons=true&theme=omni" />
